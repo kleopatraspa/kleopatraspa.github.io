@@ -1,0 +1,146 @@
+______________________________________________________________________________________________________________________
+												sauna
+______________________________________________________________________________________________________________________
+
+
+html, body 
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 17px;
+	height: auto;
+}
+
+#first {
+	background: url("../images/sauna1.jpg") no-repeat center top;
+	height: 1801px;
+}
+
+article {
+	width: 980px;
+	margin: -40px auto 0px auto;
+	
+}
+
+
+h1 {
+	font-size: 39px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0px 0px 55px 0px;
+	color:white;
+}
+
+
+.knopka {
+background: #d40428 none repeat scroll 0% 0%;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 30px;
+padding: 20px 30px;
+text-decoration: none;
+margin: 40px auto 0px auto;
+display: block;
+text-align: center;
+width: 250px;
+margin-top: 410px;
+
+}
+
+.knopka:hover {
+	background: #b00624;
+	color: #fff;
+}
+
+
+.tittlee {
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 215px 0px 40px 0px;
+	color:#fff;
+}
+
+
+
+.icons {
+	margin: 13px 0px 10px 0px;
+	
+}
+
+
+.klass {
+background: url(../images/saunaa.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 50px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 140px;
+margin-top: 30px;
+}
+.klass:hover {
+	background: url(../images/saunaa1.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.relax {
+background: url(../images/bochkaa.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 35px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 30px;
+}
+.relax:hover {
+	background: url(../images/bochkaa1.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+#third {
+	
+	color: #fff;
+	margin-top: 70px;
+}
+
+
+.clear {
+	clear: both;
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+

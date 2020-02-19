@@ -1,0 +1,128 @@
+______________________________________________________________________________________________________________________
+												berem
+______________________________________________________________________________________________________________________
+
+
+html, body 
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 17px;
+	height: auto;
+}
+
+#first {
+	background: url("../images/berem.jpg") no-repeat center top;
+	height: 1801px;
+}
+
+article {
+	width: 980px;
+	margin: -40px auto 0px auto;
+	
+}
+
+
+h1 {
+	font-size: 39px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0px 0px 55px 0px;
+	color:white;
+}
+
+
+.knopka {
+background: #d40428 none repeat scroll 0% 0%;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 30px;
+padding: 20px 30px;
+text-decoration: none;
+margin: 40px auto 0px auto;
+display: block;
+text-align: center;
+width: 250px;
+margin-top: 410px;
+
+}
+
+.knopka:hover {
+	background: #b00624;
+	color: #fff;
+}
+
+.icons {
+	margin: 135px 0px 10px 0px;
+}
+
+
+.texte {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: normal;
+
+	text-align: center;
+	text-transform: uppercase;
+	margin: 242px 0px 10px 0px;
+}
+
+.text {
+	color: #FFF;
+	font-size: 19px;
+	font-weight: normal;
+	width: 920px;
+	text-align: justify;
+	text-indent: 35px;
+	margin-top:55px;
+	margin: 50px 0px 0px 28px;
+	
+}
+
+.textee {
+	color: #FFF;
+	font-size: 33px;
+	font-weight: normal;
+	text-align: justify;
+	text-indent: 35px;
+	margin-top:55px;
+	margin: 40px 0px 0px 500px;
+}
+
+#third {
+	
+	color: #fff;
+	margin-top: 70px;
+}
+
+h3{
+	font-size: 33px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 75px 0px 62px 0px;
+	
+}
+
+.clear {
+	clear: both;
+}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+

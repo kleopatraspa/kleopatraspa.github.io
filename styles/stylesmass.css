@@ -1,0 +1,408 @@
+______________________________________________________________________________________________________________________
+												mass
+______________________________________________________________________________________________________________________
+
+
+html, body 
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 17px;
+	height: auto;
+}
+
+#first {
+	background: url("../images/massagy.jpg") no-repeat center top;
+	height: 1801px;
+}
+
+article {
+	width: 980px;
+	margin: -40px auto 0px auto;
+	
+}
+
+
+h1 {
+	font-size: 39px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0px 0px 55px 0px;
+	color:white;
+}
+
+
+.knopka {
+background: #d40428 none repeat scroll 0% 0%;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 30px;
+padding: 20px 30px;
+text-decoration: none;
+margin: 40px auto 0px auto;
+display: block;
+text-align: center;
+width: 250px;
+margin-top: 410px;
+
+}
+
+.knopka:hover {
+	background: #b00624;
+	color: #fff;
+}
+
+
+
+.tittlee {
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 205px 0px 40px 0px;
+	color:#fff;
+}
+
+
+
+.icons {
+	margin: 23px 0px 10px 0px;
+	
+}
+
+.prais {
+	
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 20px;
+padding: 10px 10px;
+text-decoration: none;
+margin: 45px auto 0px;
+display: block;
+text-align: center;
+width: 250px;
+border: 2px solid;
+margin-top: 45px;
+
+}
+.prais:hover {
+	background: #d40428;
+	color: #fff;
+}
+
+
+
+.klass {
+background: url(../images/mas1.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 30px;
+margin-top: 45px;
+}
+.klass:hover {
+	background: url(../images/1.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.relax {
+background: url(../images/mas2.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+.relax:hover {
+	background: url(../images/2.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.egypt {
+background: url(../images/mas3.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+.egypt:hover {
+	background: url(../images/3.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.antistr {
+background: url(../images/mas4.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 30px;
+margin-top: 45px;
+}
+.antistr:hover {
+	background: url(../images/4.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.imper {
+background: url(../images/mas5.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+.imper:hover {
+	background: url(../images/5.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.aroma {
+background: url(../images/mas6.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+.aroma:hover {
+	background: url(../images/6.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.ideal {
+background: url(../images/mas7.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 30px;
+margin-top: 45px;
+}
+.ideal:hover {
+	background: url(../images/7.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.lipolit {
+background: url(../images/mas8.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+.lipolit:hover {
+	background: url(../images/8.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.kamni {
+background: url(../images/mas9.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+.kamni:hover {
+	background: url(../images/9.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.sport {
+background: url(../images/mas10.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 30px;
+margin-top: 45px;
+}
+
+.sport:hover {
+	background: url(../images/10.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.beremen{
+background: url(../images/mas11.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+
+.beremen:hover {
+	background: url(../images/11.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+.tayski {
+background: url(../images/mas12.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 49px;
+margin-top: 45px;
+}
+
+.tayski:hover {
+	background: url(../images/12.jpg) no-repeat center top;
+	color: #fff;
+}
+
+.nogi {
+background: url(../images/mas13.jpg) no-repeat center top;
+color: #FFF;
+font-size: 20px;
+font-weight: bold;
+border-radius: 40px;
+padding: 38px 10px;
+text-decoration: none;
+margin: 1px auto 0px;
+float: left;
+border: 2px solid;
+text-align: center;
+width: 250px;
+margin-left: 355px;
+margin-top: 45px;
+}
+
+.nogi:hover {
+	background: url(../images/13.jpg) no-repeat center top;
+	color: #fff;
+}
+
+
+#third {
+	
+	color: #fff;
+	margin-top: 70px;
+}
+
+
+.clear {
+	clear: both;
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+

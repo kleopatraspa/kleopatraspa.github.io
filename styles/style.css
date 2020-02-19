@@ -1,0 +1,256 @@
+
+______________________________________________________________________________________________________________________
+												index
+______________________________________________________________________________________________________________________
+
+
+html, body 
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 17px;
+	height: auto;
+}
+
+#vysota {
+	background: url("../images/vysota.jpg") no-repeat center top;
+	height: 694px;
+}
+
+article {
+	width: 980px;
+	margin: -40px auto 0px auto;
+	
+}
+
+h1 {
+	font-size: 39px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0px 0px 55px 0px;
+	color:white;
+}
+
+.knopka {
+background: #d40428 none repeat scroll 0% 0%;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 30px;
+padding: 20px 30px;
+text-decoration: none;
+margin: 40px auto 0px auto;
+display: block;
+text-align: center;
+width: 250px;
+margin-top: 410px;
+
+}
+
+.knopka:hover {
+	background: #b00624;
+	color: #fff;
+}
+
+#center {
+	background: url("../images/center.jpg") no-repeat center top;
+	height: 621px;
+}
+
+
+h2 {
+	font-size: 35px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 50px 0px 55px 0px;
+	color:white;
+}
+
+
+
+.icons {
+color: #FFF;
+}
+
+.icons .icon {
+	text-align: center;
+	width: 245px;
+	float: left;
+	margin-right: 95px;
+	padding-top: 120px;
+	font-size: 15px;
+	margin-top: -15px;
+
+	
+}
+
+.icons .icon div{
+	font-size: 17px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: -9px;
+	color:white;
+	
+}
+
+
+.icons .icon:nth-child(1) {
+	background: url(../images/icon1.png) no-repeat center top;
+	margin-left: 70px;
+}
+
+.icons .icon:nth-child(2) {
+	background: url(../images/icon2.png) no-repeat center top;
+	margin-left: -40px;
+}
+
+.icons .icon:nth-child(3) {
+	background: url(../images/icon3.png) no-repeat center top;
+	margin-left: -70px;
+
+}
+
+h3 {
+	font-size: 35px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 340px 0px 55px 0px;
+	color:white;
+}
+
+#niz {
+	background: url("../images/niz.jpg") no-repeat center top;
+	height: 532px;
+}
+
+
+
+.clear {
+	clear: both;
+}
+
+.icons {
+margin: -20px auto 0px auto;
+}
+
+
+
+.kolonka1 {
+	
+	
+	font-weight: bold;
+	width: 150px;
+	float: right;
+	margin-right: 120px;
+	padding-top: 7px;
+	font-size: 19px;
+	margin-top: -30px;
+	color: white;
+}
+
+.kolonka2 {
+	width: 270px;
+	float: right;
+	margin-right: 0px;
+	padding-top: -120px;
+	font-size: 17px;
+	margin-top: 5px;
+	color: #d30626;
+	font-weight: bold;
+}
+
+
+.kolonka3 {
+	width: 200px;
+	float: right;
+	margin-right: -199px;
+	padding-top: -120px;
+	font-size: 17px;
+	margin-top: 40px;
+	color: #d30626;
+	font-weight: bold;
+}
+
+.kolonka4 {
+font-weight: bold;
+float: right;
+margin-right: -182px;
+padding-top: -100px;
+font-size: 16px;
+margin-top: 80px;
+font-weight: bold;
+color: #fff;
+border-radius: 30px;
+padding: 10px 15px;
+text-decoration: none;
+border: 2px solid;
+}
+
+.kolonka4:hover {
+background: #d30626;
+color: ##b00624;
+}
+
+.kolonka5 {
+	
+	width: 200px;
+	float: right;
+	margin-right: -203px;
+	padding-top: -100px;
+	font-size: 17px;
+	margin-top: 257px;
+	color: #d30626;
+	font-weight: bold;
+}
+
+.kolonka7 {
+	font-weight: bold;
+	width: 250px;
+	float: right;
+	margin-right: -253px;
+	padding-top: -120px;
+	font-size: 18px;
+	margin-top: 290px;
+	color: #FFF;
+}
+
+.vk {
+font-weight: bold;
+float: right;
+margin-right: -58px;
+padding-top: -100px;
+font-size: 15px;
+margin-top: 330px;
+font-weight: bold;
+color: #fff;
+border-radius: 60px;
+padding: 15px 15px;
+text-decoration: none;
+border: 2px solid;
+}
+
+.vk:hover {
+background: #5d61ee;
+color: ##b00624;
+}
+
+.kolonka9 {
+	font-weight: bold;
+	width: px;
+	float: right;
+	margin-right: -92px;
+	padding-top: 7px;
+	font-size: 19px;
+	margin-top: 220px;
+	color: white;
+}
+
+
+
+
+
+

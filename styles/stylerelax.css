@@ -1,0 +1,171 @@
+______________________________________________________________________________________________________________________
+												relax
+______________________________________________________________________________________________________________________
+
+
+html, body 
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+	font-size: 17px;
+	height: auto;
+}
+
+#first {
+	background: url("../images/relax.jpg") no-repeat center top;
+	height: 1801px;
+}
+
+article {
+	width: 980px;
+	margin: -40px auto 0px auto;
+	
+}
+
+
+h1 {
+	font-size: 39px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0px 0px 55px 0px;
+	color:white;
+}
+
+
+.knopka {
+background: #d40428 none repeat scroll 0% 0%;
+color: #FFF;
+font-size: 18px;
+font-weight: bold;
+border-radius: 30px;
+padding: 20px 30px;
+text-decoration: none;
+margin: 40px auto 0px auto;
+display: block;
+text-align: center;
+width: 250px;
+margin-top: 410px;
+
+}
+
+.knopka:hover {
+	background: #b00624;
+	color: #fff;
+}
+
+.icons {
+	margin: 135px 0px 10px 0px;
+}
+
+
+.texte {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: normal;
+
+	text-align: center;
+	text-transform: uppercase;
+	margin: 240px 0px 10px 0px;
+}
+
+.text {
+	color: #FFF;
+	font-size: 18px;
+	font-weight: normal;
+	width: 920px;
+	text-align: justify;
+	text-indent: 35px;
+	margin-top:55px;
+	margin: 50px 0px 0px 28px;
+}
+
+.textt{
+	
+	color: #FFF;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: justify;
+	text-indent: 35px;
+	margin-top:28px;
+	line-height: 5px;
+	text-indent: 50px;
+}
+
+
+
+.icons {
+color: #FFF;
+}
+
+.icons .icon {
+	text-align: center;
+	width: 299px;
+	float: left;
+	margin-right: 113px;
+	padding-top: 120px;
+	font-size: 18px;
+	margin-top: -15px;
+
+	
+}
+
+.icons .icon div{
+	font-size: 19px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: -9px;
+	color:white;
+	
+}
+
+
+.icons .icon:nth-child(1) {
+	background: url(../images/icon1.png) no-repeat center top;
+	margin-left: 20px;
+}
+
+.icons .icon:nth-child(2) {
+	background: url(../images/icon2.png) no-repeat center top;
+}
+
+.icons .icon:nth-child(3) {
+	background: url(../images/icon3.png) no-repeat center top;
+	margin-right: 0px;
+}
+
+#third {
+	
+	color: #fff;
+	margin-top: 70px;
+}
+
+h3{
+	font-size: 33px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 75px 0px 62px 0px;
+	
+}
+
+.clear {
+	clear: both;
+}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
